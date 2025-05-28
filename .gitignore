@@ -1,0 +1,8 @@
+__pycache__/
+app.db
+example.txt
+.venv/
+.env
+.env.local
+*.db
+static/
